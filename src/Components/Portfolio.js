@@ -16,7 +16,7 @@ const Portfolio = props => {
                 <img src={image} alt="work 1" />
 
                 <div className="layer">
-                    <h3>Online Quiz</h3>
+                    <h3>OnlineQuiz</h3>
                     <p>Quizzes offer a great mix of knowledge and entertainment. Take a quiz to uncover interesting facts or create one for others. To get started, simply register and dive into the world of online quizzes. There's something for everyone!</p>
                     <a href="https://online-quiz-frontend-two.vercel.app"><i className="fa-solid fa-link"></i></a>
                 </div>
