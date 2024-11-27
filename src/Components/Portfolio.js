@@ -18,7 +18,7 @@ const Portfolio = props => {
                 <div className="layer">
                     <h3>Online Quiz</h3>
                     <p>Quizzes offer a great mix of knowledge and entertainment. Take a quiz to uncover interesting facts or create one for others. To get started, simply register and dive into the world of online quizzes. There's something for everyone!</p>
-                    <a href="https://onlinequiz-34zy.onrender.com/"><i className="fa-solid fa-link"></i></a>
+                    <a href="https://online-quiz-frontend-two.vercel.app"><i className="fa-solid fa-link"></i></a>
                 </div>
             </div>
 
